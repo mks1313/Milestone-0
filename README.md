@@ -12,8 +12,6 @@ Development of a personal implementation of the C standard library. This project
 ### 2. **Piscine Tasks**
 These are the early projects and exercises I worked on as part of my 42 journey. They include basic tasks that help me develop my coding skills, master fundamental C concepts, and prepare for more complex challenges ahead.
 
-![Piscine Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/piscine.png)
-
 ## My Achievements
 
 - **Programming Languages:** C, and soon C++
