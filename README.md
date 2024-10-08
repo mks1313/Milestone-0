@@ -50,13 +50,3 @@ Feel free to reach out if you have any questions or feedback.
 ## Thank you for visiting my profile and following my progress in programming!
 
 ---
-
-
-
-
-
-
-
-
-=======
->>>>>>> 52b1912ce211768ed60ad2ac5eac74358d909678
