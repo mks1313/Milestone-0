@@ -6,11 +6,11 @@
 /*   By: mmarinov <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/07 11:32:17 by mmarinov          #+#    #+#             */
-/*   Updated: 2024/09/10 16:24:19 by mmarinov         ###   ########.fr       */
+/*   Updated: 2024/12/09 14:23:04 by mmarinov         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "libft.h"
 
 static void	free_memory(char **ptr)
 {
