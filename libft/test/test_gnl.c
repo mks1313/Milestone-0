@@ -22,7 +22,8 @@ void test_gnl(const char *filename)
 
 int main(void)
 {
-    test_gnl("test/archivo_de_prueba.txt");
+    test_gnl("../Makefile");
+    //test_gnl("archivo_de_prueba.txt");
     return 0;
 }
 
